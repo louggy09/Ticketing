@@ -1,2 +1,3 @@
 # Ticketing
-Buying tickets
+Author : Georgy Louis
+
